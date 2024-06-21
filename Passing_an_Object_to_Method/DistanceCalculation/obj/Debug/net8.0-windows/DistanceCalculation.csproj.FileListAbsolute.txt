@@ -1,0 +1,16 @@
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\bin\Debug\net8.0-windows\DistanceCalculation.exe
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\bin\Debug\net8.0-windows\DistanceCalculation.deps.json
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\bin\Debug\net8.0-windows\DistanceCalculation.runtimeconfig.json
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\bin\Debug\net8.0-windows\DistanceCalculation.dll
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\bin\Debug\net8.0-windows\DistanceCalculation.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.Form1.resources
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.csproj.GenerateResource.cache
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.GeneratedMSBuildEditorConfig.editorconfig
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.AssemblyInfoInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.AssemblyInfo.cs
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.csproj.CoreCompileInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.dll
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\refint\DistanceCalculation.dll
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\DistanceCalculation.genruntimeconfig.cache
+F:\001_Csharp_Gaddis_E06\Classes\Passing_an_Object_to_Method\DistanceCalculation\obj\Debug\net8.0-windows\ref\DistanceCalculation.dll
