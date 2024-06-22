@@ -1,0 +1,16 @@
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\bin\Debug\net8.0-windows\StudentGrades.exe
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\bin\Debug\net8.0-windows\StudentGrades.deps.json
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\bin\Debug\net8.0-windows\StudentGrades.runtimeconfig.json
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\bin\Debug\net8.0-windows\StudentGrades.dll
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\bin\Debug\net8.0-windows\StudentGrades.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.Form1.resources
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.csproj.GenerateResource.cache
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.AssemblyInfoInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.AssemblyInfo.cs
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.csproj.CoreCompileInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.dll
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\refint\StudentGrades.dll
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\StudentGrades.genruntimeconfig.cache
+F:\001_Csharp_Gaddis_E06\Classes\Arrays_and_List\StudentGrades\obj\Debug\net8.0-windows\ref\StudentGrades.dll
