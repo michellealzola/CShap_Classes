@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerUtility", "LoggerUtility\LoggerUtility.csproj", "{FCCBCAEA-2D79-46E1-8FD8-143C43C5D6F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCBCAEA-2D79-46E1-8FD8-143C43C5D6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCBCAEA-2D79-46E1-8FD8-143C43C5D6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCBCAEA-2D79-46E1-8FD8-143C43C5D6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCBCAEA-2D79-46E1-8FD8-143C43C5D6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A60D87-E31D-4210-8045-622FA4E5DF19}
+	EndGlobalSection
+EndGlobal

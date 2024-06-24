@@ -1,0 +1,16 @@
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\bin\Debug\net8.0-windows\LoggerUtility.exe
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\bin\Debug\net8.0-windows\LoggerUtility.deps.json
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\bin\Debug\net8.0-windows\LoggerUtility.runtimeconfig.json
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\bin\Debug\net8.0-windows\LoggerUtility.dll
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\bin\Debug\net8.0-windows\LoggerUtility.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.Form1.resources
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.csproj.GenerateResource.cache
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.GeneratedMSBuildEditorConfig.editorconfig
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.AssemblyInfoInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.AssemblyInfo.cs
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.csproj.CoreCompileInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.dll
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\refint\LoggerUtility.dll
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\LoggerUtility.genruntimeconfig.cache
+F:\001_Csharp_Gaddis_E06\Classes\Static\LoggerUtility\LoggerUtility\obj\Debug\net8.0-windows\ref\LoggerUtility.dll
