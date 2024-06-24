@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Multi_Step_Form_Wizard/1.0.0": {
+        "runtime": {
+          "Multi_Step_Form_Wizard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multi_Step_Form_Wizard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
