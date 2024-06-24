@@ -1,0 +1,16 @@
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net8.0-windows\RandomNumberGenerator.exe
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net8.0-windows\RandomNumberGenerator.deps.json
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net8.0-windows\RandomNumberGenerator.runtimeconfig.json
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net8.0-windows\RandomNumberGenerator.dll
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\net8.0-windows\RandomNumberGenerator.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.Form1.resources
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.csproj.GenerateResource.cache
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.GeneratedMSBuildEditorConfig.editorconfig
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.AssemblyInfoInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.AssemblyInfo.cs
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.dll
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\refint\RandomNumberGenerator.dll
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\RandomNumberGenerator.genruntimeconfig.cache
+F:\001_Csharp_Gaddis_E06\Classes\Static\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\net8.0-windows\ref\RandomNumberGenerator.dll
