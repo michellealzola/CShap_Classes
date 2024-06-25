@@ -1,0 +1,123 @@
+Sure! Here are five intermediate problems focusing on returning objects from methods using Windows Forms and Visual Studio 2022:
+
+### Problem 1: Returning a Custom Object from a Method
+**Objective**: Create a Windows Forms application where a method returns a custom object.
+
+**Instructions**:
+1. Define a class `Person` with properties `Name`, `Age`, and `Email`.
+2. Create a method `CreatePerson` that returns an object of type `Person`.
+3. Implement a button in the Windows Form. When clicked, this button should call `CreatePerson` and display the `Person` details in text boxes.
+
+**Hints**:
+- Use properties in the `Person` class.
+- Use the `TextBox` controls to display the `Person` details.
+
+### Problem 2: Returning a List of Objects
+**Objective**: Create a method that returns a list of objects and display them in a DataGridView.
+
+**Instructions**:
+1. Define a class `Product` with properties `ProductID`, `ProductName`, and `Price`.
+2. Create a method `GetProductList` that returns a `List<Product>`.
+3. Add a `DataGridView` to the form. When a button is clicked, populate the `DataGridView` with the list of products returned by `GetProductList`.
+
+**Hints**:
+- Use a `BindingList` or `List` to store and bind the data to the `DataGridView`.
+
+### Problem 3: Returning an Object Based on User Input
+**Objective**: Create a method that returns an object based on user input from the form.
+
+**Instructions**:
+1. Define a class `Employee` with properties `EmployeeID`, `FirstName`, `LastName`, and `Position`.
+2. Create a method `CreateEmployee` that takes parameters for each property and returns an `Employee` object.
+3. Add `TextBox` controls for each property on the form. When a button is clicked, call `CreateEmployee` with the user input and display the returned `Employee` details in labels.
+
+**Hints**:
+- Validate user input before creating the `Employee` object.
+- Use `Label` controls to display the `Employee` details.
+
+### Problem 4: Returning Objects from a Database Query
+**Objective**: Create a method that returns objects from a database query and display them in a ListBox.
+
+**Instructions**:
+1. Define a class `Customer` with properties `CustomerID`, `CustomerName`, and `ContactNumber`.
+2. Create a method `GetCustomers` that queries a database and returns a `List<Customer>`.
+3. Add a `ListBox` to the form. When a button is clicked, populate the `ListBox` with customer names from the `List<Customer>` returned by `GetCustomers`.
+
+**Hints**:
+- Use `SqlConnection` and `SqlCommand` for database access.
+- Handle database connection and query errors gracefully.
+
+### Problem 5: Returning an Object from a JSON File
+**Objective**: Create a method that reads a JSON file and returns an object.
+
+**Instructions**:
+1. Define a class `Order` with properties `OrderID`, `ProductName`, `Quantity`, and `TotalPrice`.
+2. Create a method `ReadOrderFromJson` that reads an order from a JSON file and returns an `Order` object.
+3. Add a button to the form. When clicked, this button should call `ReadOrderFromJson` and display the order details in `TextBox` controls.
+
+**Hints**:
+- Use `System.Text.Json` or `Newtonsoft.Json` for JSON deserialization.
+- Ensure the JSON file is properly formatted and handle file access errors.
+
+These problems will help you practice and understand how to return objects from methods in various scenarios using Windows Forms and Visual Studio 2022.
+
+Certainly! Here are five more intermediate problems:
+
+### Problem 6: Returning a Dictionary of Objects
+**Objective**: Create a method that returns a dictionary of objects and display them in a ComboBox.
+
+**Instructions**:
+1. Define a class `Student` with properties `StudentID`, `Name`, and `Grade`.
+2. Create a method `GetStudentsDictionary` that returns a `Dictionary<int, Student>`, where the key is the `StudentID`.
+3. Add a `ComboBox` to the form. When a button is clicked, populate the `ComboBox` with student names from the dictionary returned by `GetStudentsDictionary`.
+
+**Hints**:
+- Use the `DisplayMember` and `ValueMember` properties of the `ComboBox` to display student names and store the IDs.
+
+### Problem 7: Returning Objects from an API Call
+**Objective**: Create a method that fetches data from an API and returns objects, then display the data in a ListView.
+
+**Instructions**:
+1. Define a class `Weather` with properties `City`, `Temperature`, and `Condition`.
+2. Create a method `GetWeatherData` that fetches data from a weather API and returns a `List<Weather>`.
+3. Add a `ListView` to the form. When a button is clicked, populate the `ListView` with weather data returned by `GetWeatherData`.
+
+**Hints**:
+- Use `HttpClient` to make the API call.
+- Deserialize the JSON response into `Weather` objects.
+
+### Problem 8: Returning an Object with Multiple Data Types
+**Objective**: Create a method that returns an object containing various data types and display the data on the form.
+
+**Instructions**:
+1. Define a class `Statistics` with properties `AverageAge` (double), `MaxSalary` (decimal), `EmployeeCount` (int), and `Department` (string).
+2. Create a method `GetStatistics` that calculates and returns a `Statistics` object.
+3. Add labels to the form. When a button is clicked, call `GetStatistics` and display the statistics in the labels.
+
+**Hints**:
+- Perform calculations inside `GetStatistics` to generate the data for the `Statistics` object.
+
+### Problem 9: Returning an Object After Performing Validations
+**Objective**: Create a method that performs validations on input data and returns a validation result object.
+
+**Instructions**:
+1. Define a class `ValidationResult` with properties `IsValid` (bool), `ErrorMessage` (string), and `ValidatedObject` (object).
+2. Create a method `ValidateAndCreatePerson` that takes input parameters, validates them, and returns a `ValidationResult` object containing a `Person` object if valid.
+3. Add input controls to the form. When a button is clicked, call `ValidateAndCreatePerson` and display the result.
+
+**Hints**:
+- Perform necessary validations (e.g., non-empty fields, valid email format) inside `ValidateAndCreatePerson`.
+
+### Problem 10: Returning Objects Based on File Contents
+**Objective**: Create a method that reads a CSV file and returns a list of objects.
+
+**Instructions**:
+1. Define a class `Transaction` with properties `TransactionID`, `Date`, `Amount`, and `Description`.
+2. Create a method `ReadTransactionsFromCsv` that reads a CSV file and returns a `List<Transaction>`.
+3. Add a button to the form. When clicked, this button should call `ReadTransactionsFromCsv` and display the transactions in a `DataGridView`.
+
+**Hints**:
+- Use `StreamReader` to read the CSV file line by line.
+- Parse each line to create `Transaction` objects and add them to a list.
+
+These additional problems will further enhance your skills in working with objects and methods in Windows Forms applications using Visual Studio 2022.
