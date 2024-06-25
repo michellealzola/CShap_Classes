@@ -1,0 +1,141 @@
+Sure! Here are 10 intermediate C# problems focusing on implementing `ToString` methods in different scenarios using Windows Forms and Visual Studio 2022:
+
+1. **Employee Class**:
+   Create a Windows Forms application with an `Employee` class. Implement a `ToString` method that returns the employee's full name and position. Add a button to display the employee's information in a message box.
+
+2. **Product Class**:
+   Develop a `Product` class with properties like `Name`, `Price`, and `Category`. Implement a `ToString` method that formats these details neatly. Use a form to input product details and a button to show the formatted string.
+
+3. **Customer Class with Address**:
+   Create a `Customer` class with an `Address` property that is another class. Implement `ToString` methods for both classes. Use a form to capture customer and address details, and display the customer's full information in a message box.
+
+4. **Order Class with Items**:
+   Develop an `Order` class containing a list of `OrderItem` objects. Implement `ToString` methods for both classes. Use a form to add items to an order and display the complete order details when a button is clicked.
+
+5. **Vehicle Class Hierarchy**:
+   Create a base `Vehicle` class with `Car` and `Truck` subclasses. Implement a `ToString` method in the base class and override it in the subclasses to include specific details. Use a form to select vehicle types and show their information.
+
+6. **Student and Course Classes**:
+   Design a `Student` class that includes a list of `Course` objects. Implement `ToString` methods to display student details along with enrolled courses. Use a form to input data and display the student's profile in a message box.
+
+7. **Book and Author Classes**:
+   Create `Book` and `Author` classes where a book can have multiple authors. Implement `ToString` methods to show book details along with the list of authors. Use a form to add books and authors, and display the information.
+
+8. **Invoice Class with LineItems**:
+   Design an `Invoice` class containing a list of `LineItem` objects. Implement `ToString` methods to display invoice details with each line item. Use a form to create invoices and show the formatted invoice when a button is clicked.
+
+9. **Library System**:
+   Develop a `Library` class containing a list of `Book` objects. Implement `ToString` methods to display the library's collection. Use a form to add books to the library and display the collection.
+
+10. **Flight Booking System**:
+    Create classes `Flight`, `Passenger`, and `Booking`. Implement `ToString` methods to display flight details, passenger information, and booking details. Use a form to create bookings and display the formatted information.
+
+### Detailed Example Problem: Employee Class
+
+1. **Employee Class**:
+   - Create a Windows Forms project.
+   - Add an `Employee` class with properties `FirstName`, `LastName`, and `Position`.
+   - Implement the `ToString` method to return a string in the format: "Full Name: [FirstName] [LastName], Position: [Position]".
+   - Design a form with text boxes for first name, last name, and position, and a button to display the employee information.
+   - In the button click event, create an `Employee` object with the input data, and show the `ToString` result in a message box.
+
+Here's a sample implementation for the `Employee` class and the form:
+
+**Employee.cs**:
+```csharp
+public class Employee
+{
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    public string Position { get; set; }
+
+    public override string ToString()
+    {
+        return $"Full Name: {FirstName} {LastName}, Position: {Position}";
+    }
+}
+```
+
+**Form1.cs**:
+```csharp
+public partial class Form1 : Form
+{
+    public Form1()
+    {
+        InitializeComponent();
+    }
+
+    private void btnShowEmployeeInfo_Click(object sender, EventArgs e)
+    {
+        var employee = new Employee
+        {
+            FirstName = txtFirstName.Text,
+            LastName = txtLastName.Text,
+            Position = txtPosition.Text
+        };
+
+        MessageBox.Show(employee.ToString(), "Employee Information");
+    }
+}
+```
+
+**Form1.Designer.cs**:
+```csharp
+private System.Windows.Forms.TextBox txtFirstName;
+private System.Windows.Forms.TextBox txtLastName;
+private System.Windows.Forms.TextBox txtPosition;
+private System.Windows.Forms.Button btnShowEmployeeInfo;
+
+private void InitializeComponent()
+{
+    this.txtFirstName = new System.Windows.Forms.TextBox();
+    this.txtLastName = new System.Windows.Forms.TextBox();
+    this.txtPosition = new System.Windows.Forms.TextBox();
+    this.btnShowEmployeeInfo = new System.Windows.Forms.Button();
+    this.SuspendLayout();
+    // 
+    // txtFirstName
+    // 
+    this.txtFirstName.Location = new System.Drawing.Point(12, 12);
+    this.txtFirstName.Name = "txtFirstName";
+    this.txtFirstName.Size = new System.Drawing.Size(100, 20);
+    this.txtFirstName.TabIndex = 0;
+    // 
+    // txtLastName
+    // 
+    this.txtLastName.Location = new System.Drawing.Point(12, 38);
+    this.txtLastName.Name = "txtLastName";
+    this.txtLastName.Size = new System.Drawing.Size(100, 20);
+    this.txtLastName.TabIndex = 1;
+    // 
+    // txtPosition
+    // 
+    this.txtPosition.Location = new System.Drawing.Point(12, 64);
+    this.txtPosition.Name = "txtPosition";
+    this.txtPosition.Size = new System.Drawing.Size(100, 20);
+    this.txtPosition.TabIndex = 2;
+    // 
+    // btnShowEmployeeInfo
+    // 
+    this.btnShowEmployeeInfo.Location = new System.Drawing.Point(12, 90);
+    this.btnShowEmployeeInfo.Name = "btnShowEmployeeInfo";
+    this.btnShowEmployeeInfo.Size = new System.Drawing.Size(100, 23);
+    this.btnShowEmployeeInfo.TabIndex = 3;
+    this.btnShowEmployeeInfo.Text = "Show Info";
+    this.btnShowEmployeeInfo.UseVisualStyleBackColor = true;
+    this.btnShowEmployeeInfo.Click += new System.EventHandler(this.btnShowEmployeeInfo_Click);
+    // 
+    // Form1
+    // 
+    this.ClientSize = new System.Drawing.Size(284, 261);
+    this.Controls.Add(this.btnShowEmployeeInfo);
+    this.Controls.Add(this.txtPosition);
+    this.Controls.Add(this.txtLastName);
+    this.Controls.Add(this.txtFirstName);
+    this.Name = "Form1";
+    this.ResumeLayout(false);
+    this.PerformLayout();
+}
+```
+
+This structure can be adapted for the other problems, ensuring each class has a meaningful `ToString` method that the form can utilize to display formatted information.
