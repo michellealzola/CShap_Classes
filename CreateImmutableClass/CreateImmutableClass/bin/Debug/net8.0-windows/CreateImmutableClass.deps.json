@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CreateImmutableClass/1.0.0": {
+        "runtime": {
+          "CreateImmutableClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreateImmutableClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
