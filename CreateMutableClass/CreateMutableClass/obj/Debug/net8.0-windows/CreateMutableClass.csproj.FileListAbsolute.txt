@@ -1,0 +1,16 @@
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\bin\Debug\net8.0-windows\CreateMutableClass.exe
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\bin\Debug\net8.0-windows\CreateMutableClass.deps.json
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\bin\Debug\net8.0-windows\CreateMutableClass.runtimeconfig.json
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\bin\Debug\net8.0-windows\CreateMutableClass.dll
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\bin\Debug\net8.0-windows\CreateMutableClass.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.Form1.resources
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.csproj.GenerateResource.cache
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.AssemblyInfoInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.AssemblyInfo.cs
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.csproj.CoreCompileInputs.cache
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.dll
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\refint\CreateMutableClass.dll
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.pdb
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\CreateMutableClass.genruntimeconfig.cache
+F:\001_Csharp_Gaddis_E06\Classes\Muttable Immutable Aggregation Composition Anonymous Method\CreateMutableClass\CreateMutableClass\obj\Debug\net8.0-windows\ref\CreateMutableClass.dll
